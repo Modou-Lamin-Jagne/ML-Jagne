@@ -24,7 +24,7 @@ export const Hero = () => {
         </div>
 
                 <div className='flex justify-center relative my-20 z-10'>
-                  <div className='max-w-[89vw] md:max-w-screen-2xl lg:mxw[60vw]
+                  <div className='max-w-[89vw] md:max-w-screen-2xl lg:mx-w[60vw]
                    flex flex-col items-center justify-center'>
                     <h2 className='uppercase tracking-widest text-xs text-center
                      text-blue-100 max-w-80'>
