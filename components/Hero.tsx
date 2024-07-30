@@ -12,7 +12,7 @@ export const Hero = () => {
             md:-top-20 h-screen' fill="white"/>
             <Spotlight className='top-10 left-full h-[80hv]
             w-[50vw]' fill="purple"/>
-            <Spotlight className='top-28 left-80h h-[80hv]
+            <Spotlight className='top-28 left-80 h-[80hv]
             w-[50vw]' fill="blue"/>
         </div>
         <div className="h-screen w-full dark:bg-black-100 bg-white  dark:bg-grid-white/[0.02] bg-grid-black/[0.2]
@@ -36,7 +36,7 @@ export const Hero = () => {
                     />
 
                     <p>
-                      Hi there! I&apos;m MLJagne, a web developer based in The Gambia.
+                      Hi there! I&apos;m Modou Lamin Jagne, a Next.js developer based in The Gambia.
                     </p>
 
                     <a href='#about'>
