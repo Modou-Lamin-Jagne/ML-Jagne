@@ -1,10 +1,10 @@
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffects';
-import MagicButton from './ui/MagicButton';
+import MagicButton from './MagicButton';
 import { FaLocationArrow } from 'react-icons/fa';
 
-export const Hero = () => {
+const Hero = () => {
   return (
     <div className='pb-20 pt-36' >
         <div>
@@ -52,3 +52,4 @@ export const Hero = () => {
     </div>
   )
 }
+export default Hero;
