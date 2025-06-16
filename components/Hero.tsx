@@ -1,10 +1,10 @@
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffects';
-import MagicButton from './ui/MagicButton';
+import MagicButton from './MagicButton';
 import { FaLocationArrow } from 'react-icons/fa';
 
-export const Hero = () => {
+const Hero = () => {
   return (
     <div className='pb-20 pt-36' >
         <div>
@@ -24,7 +24,7 @@ export const Hero = () => {
         </div>
 
                 <div className='flex justify-center relative my-20 z-10'>
-                  <div className='max-w-[89vw] md:max-w-screen-2xl lg:mxw[60vw]
+                  <div className='max-w-[89vw] md:max-w-screen-2xl lg:mx-w[60vw]
                    flex flex-col items-center justify-center'>
                     <h2 className='uppercase tracking-widest text-xs text-center
                      text-blue-100 max-w-80'>
@@ -52,3 +52,4 @@ export const Hero = () => {
     </div>
   )
 }
+export default Hero;
