@@ -23,11 +23,12 @@ const Footer = () => {
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
           Reach out to me today and let&apos;s discuss how I can help you
-          achieve your goals.
+          bring your vision to life.
+          Whether you have a project in mind or just want to say hello, I&apos;m here to connect and collaborate.
         </p>
         <a href="mailto:contact@jsmastery.pro">
           <MagicButton
-            title="Let's get in touch"
+            title="Let's Connect"
             icon={<FaLocationArrow />}
             position="right"
           />
@@ -35,7 +36,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 Adrian Hajdin
+          Copyright © 2024 ML Jagne. All rights reserved.
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">
