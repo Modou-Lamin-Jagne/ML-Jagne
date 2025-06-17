@@ -28,20 +28,20 @@ const Hero = () => {
                    flex flex-col items-center justify-center'>
                     <h2 className='uppercase tracking-widest text-xs text-center
                      text-blue-100 max-w-80'>
-                      Dynamic Web Magic with Next.js
+                      Building with The Future in Mind.
                     </h2>
                     <TextGenerateEffect
-                      words='Transforming Concepts into Seamless User Experiences'
+                      words='Transforming Ideas into Lasting Experiences'
                       className='text-[40px] md:text-5xl text-center lg:text-6xl'
                     />
 
                     <p>
-                      Hi there! I&apos;m Modou Lamin Jagne, a Next.js developer based in The Gambia.
+                      Hi there! I&apos;m Modou Lamin Jagne, a Software developer based in The Gambia.
                     </p>
 
                     <a href='#about'>
                       <MagicButton 
-                        title="Show my work" 
+                        title="Check my work" 
                         icon = {<FaLocationArrow />} // Icon from react-icons library. className='ml-2'
                         position='right'
                       />
