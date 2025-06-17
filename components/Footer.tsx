@@ -22,9 +22,9 @@ const Footer = () => {
           presence to the next level?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
+          Have a project in mind or just want to say hello?
           Reach out to me today and let&apos;s discuss how I can help you
           bring your vision to life.
-          Whether you have a project in mind or just want to say hello, I&apos;m here to connect and collaborate.
         </p>
         <a href="mailto:contact@jsmastery.pro">
           <MagicButton
