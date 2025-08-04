@@ -206,16 +206,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-        link: "/https://github.com/Modou-Lamin-Jagne"
+      link: "https://github.com/Modou-Lamin-Jagne"
     },
     {
       id: 2,
       img: "/twit.svg",
-        link: "/https://x.com/ModouLJagne"
+      link: "https://x.com/ModouLJagne"
     },
     {
       id: 3,
       img: "/link.svg",
-        link: "/https://www.linkedin.com/in/modou-lamin-jagne-391156222/"
+      link: "https://www.linkedin.com/in/modou-lamin-jagne-391156222/"
     },
   ];
